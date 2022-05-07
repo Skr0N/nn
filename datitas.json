@@ -1,0 +1,36 @@
+{
+  "data": [
+      {
+          "id": 1,
+          "nombre": "Infinite Yield",
+          "juego": "Universal",
+          "features": "Te permite ejecutar muchisimos comandos, como fly, etc!",
+          "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972186208228757505/Infinite-Yield_y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186796400209930/unknown.png"
+      },
+      {
+          "id": 2,
+          "nombre": "Dark Hub",
+          "juego": "Universal",
+          "features": "Aimbot + Esp!",
+          "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972186600970809504/dark-hub_y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972186714196033546/unknown.png"
+      },
+      {
+          "id": 3,
+          "nombre": "Owl Hub",
+          "juego": "Universal",
+          "features": "Aimbot + Esp!",
+          "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972357654531952650/owl-hub_y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972187099723857950/unknown.png"
+      },
+      {
+          "id": 4,
+          "nombre": "Autorob",
+          "juego": "Jailbreak",
+          "features": "Autorob muy efectivo para Jailbreak!",
+          "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972357654531952650/owl-hub_y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972358115515314207/unknown.png"
+      }
+  ]
+}
