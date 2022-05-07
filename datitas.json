@@ -31,6 +31,46 @@
           "features": "Autorob muy efectivo para Jailbreak!",
           "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972527909329854504/autorob-jailbreak_y2k06.xyz.txt",
           "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972358115515314207/unknown.png"
+      },
+     {
+          "id": 5,
+          "nombre": "Faze Ware",
+          "juego": "Da Hood",
+          "features": "Aimlock y mucho más para Da Hood!",
+          "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972565866526933042/fazeware-dh_y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972566089236095016/unknown.png"
+      },
+    {
+          "id": 7,
+          "nombre": "Up Right Hub",
+          "juego": "Build A Boat",
+          "features": "Autofarm y varias opciones!",
+          "descarga": "https://cdn.discordapp.com/attachments/963223210218893392/972566477947408465/up-right-hub_y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/963223210218893392/972566680414871623/unknown.png"
+      },
+    {
+          "id": 6,
+          "nombre": "Ice Hub",
+          "juego": "Brookhaven",
+          "features": "Diviertete molestando a los jugadores!",
+          "descarga": "https://cdn.discordapp.com/attachments/882941526068564028/972568985684029530/brookhaven-y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972569267725811752/unknown.png"
+      },
+    {
+          "id": 8,
+          "nombre": "Flooded v2",
+          "juego": "Flood Escape Classic",
+          "features": "Autofarm y poco más!",
+          "descarga": "https://cdn.discordapp.com/attachments/882941526068564028/972569958531887145/floodscapey2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972570293178601522/unknown.png"
+      },
+    {
+          "id": 9,
+          "nombre": "CheeseyHubV6",
+          "juego": "Univeral",
+          "features": "Script que sirve para varios juegos!",
+          "descarga": "https://cdn.discordapp.com/attachments/882941526068564028/972570735631556618/cheseyhub-y2k06.xyz.txt",
+          "mini": "https://cdn.discordapp.com/attachments/882941526068564028/972570568127836190/unknown.png"
       }
   ]
 }
