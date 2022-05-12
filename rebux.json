@@ -2,8 +2,18 @@
   "data": [
       {
           "cantidad": "1000",
+          "precio": "4",
+          "click": "https://y2k06.xyz"
+      },
+      {
+          "cantidad": "2500",
           "precio": "10",
           "click": "https://y2k06.xyz"
-      }
+      },
+      {
+          "cantidad": "7500",
+          "precio": "30",
+          "click": "https://y2k06.xyz"
+      },
   ]
 }
